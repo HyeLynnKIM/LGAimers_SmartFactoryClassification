@@ -44,3 +44,7 @@ LG에서는 제조 지능화를 통해 공정 과정에서 발생하는 이벤�
 Public 30위 0.72546
 
 Private 30위 0.66213
+
+## 진행 과정 노션
+
+https://www.notion.so/myelynn/eb7f22c4899544ab9a2266c104c59f37?pvs=4
