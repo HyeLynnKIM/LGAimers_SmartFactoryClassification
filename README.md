@@ -1,5 +1,5 @@
 # LGAimers_SmartFactoryClassification
-💡 LGAimers Phase2 Online Hackathon - 스마트 공장 제품 품질 상태 분류 (데이콘)
+💡 LGAimers Phase2 Online Hackathon - 스마트 공장 제품 품질 상태 분류 (데이콘)<br>
 💡 LGAimers Phase3 Offline Hackathon - 스마트 공장 제품 품질 상태 분류 (데이콘)
 
 ## 대회 설명
